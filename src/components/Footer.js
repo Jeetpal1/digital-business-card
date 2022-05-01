@@ -7,16 +7,16 @@ import github from "../images/gitHub-icon.png";
 function Footer() {
   return (
     <div className="footer">
-      <a href="" target="_blank">
+      <a href="https://www.linkedin.com/in/jeetpal-singh-8630a61aa/" target="_blank">
         <img src={linkedin} alt="linkedin" />
       </a>
-      <a href="" target="_blank">
+      <a href="https://www.instagram.com/jeet_pal01/?hl=en" target="_blank">
         <img src={instagram} alt="instagram" />
       </a>
-      <a href="" target="_blank">
+      <a href="https://www.facebook.com/profile.php?id=100076170605893" target="_blank">
         <img src={facebook} alt="facebook" />
       </a>
-      <a href="" target="_blank">
+      <a href="https://github.com/Jeetpal1" target="_blank">
         <img src={github} alt="github" />
       </a>
     </div>

@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+body{
+  background: #23252C;
+  font-family: 'Inter';
+  font-style: normal;
+}
+.my-pic{
+  width:317px;
+  height:317px;
+  border-radius: 10px 10px 0px 0px;
+}
+.info{
+  background: #1A1B21;
+  width: 317px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 15px;
+}
+.info .name {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFF;
+  padding: 0;
+  margin-bottom: 0;
+}
+.info .job-title{
+  color: #F3BF99;
+  font-size: 12.8px;
+  margin: 0;
+  margin-bottom: 9px;
+}
+.info a {
+  text-decoration: none;
+  
+  color: #F5F5F5;
+
+}
+

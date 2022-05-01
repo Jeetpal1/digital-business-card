@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  background: #1a1b21;
+  background: #1A1B21;
+
   width: 317px;
   margin-left: auto;
   margin-right: auto;
@@ -59,7 +60,12 @@ body {
   margin: 15px 5px;
 }
 
+.footer{
+  background: #161619;
+  padding: 20px 0;
+}
 .footer > a {
   margin: 20px 10px;
   padding: 0;
+
 }
